@@ -47,4 +47,4 @@ The project includes the following analyses:
 - Build an interactive dashboard using Streamlit or Plotly.
 
 ## Author
-Jeff Peixoto
+Jefferson Peixoto
